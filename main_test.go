@@ -1,4 +1,4 @@
-package makeGreeting
+package main
 
 import (
 	"testing"
